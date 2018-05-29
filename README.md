@@ -1,25 +1,24 @@
 ## Project Name:  Expense Calculator Application
 
 ### Course Title:
-Web Application Development
+LIS2360: Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(05 29, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Geon)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(I edited an expense calculator to add on household, transportation, and miscellaneous expenses in order to calculate total expenses as a percentage)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to declare as a variable and initalize the three new variables that needed to be added using unique names)
+2. (How to display variables with a certain number or digits after the decimal point and how to modify the three variables using unique names)
+3. (How to use getElementbyId() to use a number that was used previously in the program)
 
 
 
